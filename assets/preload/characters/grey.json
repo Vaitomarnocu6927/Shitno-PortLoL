@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Grey_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Grey_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				23
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Grey_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Grey_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Grey_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				23
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Grey_Miss_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				24
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Grey_Miss_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				24
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Grey_Miss_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				23
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Grey_Miss_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				22
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "Grey_Talk",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turn",
+			"indices": [],
+			"name": "GreyCold_Turn"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				20
+			],
+			"anim": "talk2",
+			"fps": 24,
+			"name": "Grey_Talk2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Grey_Assets",
+	"position": [
+		130,
+		260
+	],
+	"healthicon": "grey",
+	"flip_x": true,
+	"healthbar_colors": [
+		181,
+		140,
+		112
+	],
+	"camera_position": [
+		460,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 3
+}
